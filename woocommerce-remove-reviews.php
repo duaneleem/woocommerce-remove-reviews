@@ -1,8 +1,8 @@
 <?php
 /*
   Plugin Name: WooCommerce Disable Reviews
-  Plugin URI: https://duaneleem.com
-  Description: Disabled the reviews tab across WooCommerce.
+  Plugin URI: https://blog.duaneleem.com/disabling-woocommerce-reviews/
+  Description: Disable the reviews tab across WooCommerce.
   Version: 1.0
   Author: Duane Leem
   Author URI: https://duaneleem.com
